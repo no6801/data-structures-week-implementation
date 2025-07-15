@@ -38,3 +38,25 @@ To run and test, add a main method to the class you want to try and execute it.
 ## Summary
 
 Day 1 focused on implementing core data structures including dynamic arrays, singly linked lists, and stacks.
+
+
+
+
+## Day 2: Implemented Structures
+
+1. **Queue (Array-based)**  
+   - File: `queues/QueueArray.java`  
+   - Description: Implements a circular array-based queue with enqueue, dequeue, peek, and isEmpty methods.
+
+2. **Queue (Linked list-based)**  
+   - File: `queues/QueueLinkedList.java`  
+   - Description: Implements a queue using singly linked nodes, supporting enqueue, dequeue, peek, and isEmpty.
+
+3. **Doubly Linked List**  
+   - File: `linkedlists/DoublyLinkedList.java`  
+   - Description: A linked list where each node points to both the next and previous node. Supports insertion and bidirectional printing.
+
+4. **Circular Linked List**  
+   - File: `linkedlists/CircularLinkedList.java`  
+   - Description: A linked list where the last node points back to the head. Supports insertion and circular traversal.
+
