@@ -38,3 +38,14 @@ To run and test, add a main method to the class you want to try and execute it.
 ## Summary
 
 Day 1 focused on implementing core data structures including dynamic arrays, singly linked lists, and stacks.
+
+## Day 3: Implemented Structures
+
+1. **Binary Tree**  
+   - File: `trees/BinaryTree.java`  
+   - Description: Basic binary tree structure with recursive methods for Pre-order, In-order, and Post-order traversal.
+
+2. **Binary Search Tree (BST)**  
+   - File: `trees/BinarySearchTree.java`  
+   - Description: A BST implementation that supports insertion and recursive traversal methods (in-order, pre-order, post-order).
+
