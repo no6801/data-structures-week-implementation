@@ -59,4 +59,8 @@ Day 1 focused on implementing core data structures including dynamic arrays, sin
 4. **Circular Linked List**  
    - File: `linkedlists/CircularLinkedList.java`  
    - Description: A linked list where the last node points back to the head. Supports insertion and circular traversal.
+## Day 4: Implemented Structures
+
+1. MinHeap – File: `heaps/MinHeap.java`
+2. Hash Table – File: `hashtables/HashTable.java`
 
