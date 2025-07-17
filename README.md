@@ -59,6 +59,16 @@ Day 1 focused on implementing core data structures including dynamic arrays, sin
 4. **Circular Linked List**  
    - File: `linkedlists/CircularLinkedList.java`  
    - Description: A linked list where the last node points back to the head. Supports insertion and circular traversal.
+   - ## Day 3: Implemented Structures
+
+1. **Binary Tree**  
+   - File: `trees/BinaryTree.java`  
+   - Description: Basic binary tree structure with recursive methods for Pre-order, In-order, and Post-order traversal.
+
+2. **Binary Search Tree (BST)**  
+   - File: `trees/BinarySearchTree.java`  
+   - Description: A BST implementation that supports insertion and recursive traversal methods (in-order, pre-order, post-order).
+
 ## Day 4: Implemented Structures
 
 1. MinHeap – File: `heaps/MinHeap.java`
