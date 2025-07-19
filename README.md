@@ -74,3 +74,9 @@ Day 1 focused on implementing core data structures including dynamic arrays, sin
 1. MinHeap – File: `heaps/MinHeap.java`
 2. Hash Table – File: `hashtables/HashTable.java`
 
+## Day 5: Graphs
+
+- Implemented Graph using adjacency list (`graphs/Graph.java`)
+- Implemented BFS and DFS traversal (`graphs/GraphTraversal.java`)
+
+
